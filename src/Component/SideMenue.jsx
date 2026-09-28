@@ -203,7 +203,7 @@ function SideMenue({
       </Box>
 
       <Box className='d-flex flex-column p-2 align-items-center gap-2 mb-2'>
-        <Typography variant='caption' className='text-center mx-auto' sx={{color:"#0000008A"}}>Powerd By</Typography>   
+        <Typography variant='caption' className='text-center mx-auto' sx={{color:"#0000008A"}}>Powered By</Typography>   
         <Box component={'img'} src={logo2} width={'90%'}/>
       </Box>
     </Box>
